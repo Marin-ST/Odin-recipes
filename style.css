@@ -2,10 +2,17 @@
 
 body{
     font-family: 'Architects Daughter', cursive;
+    background-color: black;
+    color: chartreuse;
+}
+a:hover{
+    color: white;
+    font-size: 18px;
 }
 
 a{
     text-decoration: none;
+    color: chartreuse;
 }
 
 ul{
